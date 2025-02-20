@@ -22,8 +22,8 @@
 - `/logout` : logout your telegram account 
 - `/broadcast` : reply this command to your broadcast message in bot.</b>
 
-## Update Channel [VJ Botz](https://telegram.me/vj_botz)
+## Update Channel [VJ Botz](https://telegram.me/botupdate97)
 
-## Support Group [VJ Support](https://telegram.me/vj_bot_disscussion)
+## Support Group [VJ Support](https://telegram.me/botupdatechat)
 
-## Credit - [Tech VJ](https://youtube.com/@Tech_VJ)
+## Credit - [Tech VJ](https://youtube.com/@newviralcontent-fd)
